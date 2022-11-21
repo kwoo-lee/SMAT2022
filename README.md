@@ -47,7 +47,6 @@ Kwanwoo Lee, +82-10-8790-2231, cool8790@ajou.ac.kr
 ---
 
 [1] Brain, M., R. Gould, U. Kaempf, and B. Wehrung. 1999. “Emerging Needs for Continuous Flow FOUP Transport”. In International Electronics Manufacturing Technology Symposium 1999 24th IEEE/CPMT, 76–82. Piscataway, New Jersey: Institute of Electrical and Electronics Engineers, Inc.
-
 [2] Campbell, E., and J. Ammenheuser. 2000. “300mm Factory Layout and Material Handling Modeling: Phase II Report”. Technical Report No. 99113848B-ENG, SEMATECH, Austin, Texas.
 
 [3] Castillo, I., and B. A. Peters. 2004. “Integrating Design and Production Planning Considerations in Multi-Bay Manufacturing Facility Layout”. European Journal of Operational Research 157(3):671–687.
@@ -62,20 +61,18 @@ Kwanwoo Lee, +82-10-8790-2231, cool8790@ajou.ac.kr
 
 [8] Hassoun, M., and A. Kalir. 2017. “Towards a New Simulation Testbed for Semiconductor Manufacturing”. In Proceedings of the 2017 Winter Simulation Conference, edited by V. W. K. Chan, A. D’Ambrogio, G. Zacharewicz, N. Mustafee, G. Wainer, and E. H. Page, 3612–3623. Piscataway, New Jersey: Institute of Electrical and Electronics Engineers, Inc. 
 
-[9] Hassoun, M., D. Kopp, L. Monch, and A. Kalir. 2019. “A New High-Volume/Low-Mix Simulation Testbed for Semiconductor Manufacturing”. In Proceedings of the 2019 Winter Simulation Conference, edited by N. Mustafee, K.-H. G. Bae,
+[9] Hassoun, M., D. Kopp, L. Monch, and A. Kalir. 2019. “A New High-Volume/Low-Mix Simulation Testbed for Semiconductor Manufacturing”. In Proceedings of the 2019 Winter Simulation Conference, edited by N. Mustafee, K.-H. G. Bae, S. Lazarova-Molnar, M. Rabe, C. Szabo, P. Haas, and Y.-J. Son, 2419–2428. Piscataway, New Jersey: Institute of Electrical and Electronics Engineers, Inc.
 
-[10] S. Lazarova-Molnar, M. Rabe, C. Szabo, P. Haas, and Y.-J. Son, 2419–2428. Piscataway, New Jersey: Institute of Electrical and Electronics Engineers, Inc.
+[10] Kim, J., G. Yu, and Y. J. Jang. 2016. “Semiconductor FAB Layout Design Analysis With 300-mm FAB Data: Is Minimum Distance-Based Layout Design Best for Semiconductor FAB Design?”. Computers & Industrial Engineering 99(C):330–346.
 
-[11] Kim, J., G. Yu, and Y. J. Jang. 2016. “Semiconductor FAB Layout Design Analysis With 300-mm FAB Data: Is Minimum Distance-Based Layout Design Best for Semiconductor FAB Design?”. Computers & Industrial Engineering 99(C):330–346.
+[11] Kopp, D., M. Hassoun, A. Kalir, and L. Monch. 2020. “SMT2020—A Semiconductor Manufacturing Testbed”. ¨ IEEE Transactions on Semiconductor Manufacturing 33(4):522–531.
 
-[12] Kopp, D., M. Hassoun, A. Kalir, and L. Monch. 2020. “SMT2020—A Semiconductor Manufacturing Testbed”. ¨ IEEE Transactions on Semiconductor Manufacturing 33(4):522–531.
+[12] Monch, L., J. W. Fowler, and S. Mason. 2013. ¨ Production Planning and Control for Semiconductor Wafer Fabrication Facilities: Modeling, Analysis, and Systems. New York, New York.
 
-[13] Monch, L., J. W. Fowler, and S. Mason. 2013. ¨ Production Planning and Control for Semiconductor Wafer Fabrication Facilities: Modeling, Analysis, and Systems. New York, New York.
+[13] Tung, J., T. Sheen, M. Kao, and C. Chen. 2013. “Optimization of AMHS Design for a Semiconductor Foundry Fab by Using Simulation Modeling”. In Proceedings of the 2013 Winter Simulation Conference, edited by R. Pasupathy, S.-H. Kim, A. Tolk, R. R. Hill, and M. E. Kuhl, 3829–3839. Piscataway, New Jersey: Institute of Electrical and Electronics Engineers, Inc.
 
-[14] Tung, J., T. Sheen, M. Kao, and C. Chen. 2013. “Optimization of AMHS Design for a Semiconductor Foundry Fab by Using Simulation Modeling”. In Proceedings of the 2013 Winter Simulation Conference, edited by R. Pasupathy, S.-H. Kim, A. Tolk, R. R. Hill, and M. E. Kuhl, 3829–3839. Piscataway, New Jersey: Institute of Electrical and Electronics Engineers, Inc.
+[14] Wowk, V., and R. Billings. 1994. “Vibration and Shock from Manual and Automated Material Movement”. Technical Report No. 94102603A-GEN, SEMATECH, Austin, Texas.
 
-[15] Wowk, V., and R. Billings. 1994. “Vibration and Shock from Manual and Automated Material Movement”. Technical Report No. 94102603A-GEN, SEMATECH, Austin, Texas.
-
-[16] Yang, T., and B. Peters. 1998. “A Spine Layout Design Method for Semiconductor Fabrication Facilities Containing Automated Material Handling Systems”. International Journal of Operations & Production Management 17(6):490–501.
+[15] Yang, T., and B. Peters. 1998. “A Spine Layout Design Method for Semiconductor Fabrication Facilities Containing Automated Material Handling Systems”. International Journal of Operations & Production Management 17(6):490–501.
 
 **Last Revised at 22.11.21 by Kwanwoo Lee.**
