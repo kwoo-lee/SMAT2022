@@ -8,7 +8,7 @@
 
 The repository contains a simulation dataset, SMAT2022. [(Kopp et al, 2020)](https://ieeexplore.ieee.org/document/9115710) propose a new dataset SMT2020 containing characteristics of modern FAB, it is an additional version including AMHS (Automated Material Handling System). We tried to reflect the details of AMHS in modern FAB.
 
-![SMAT2022FAB.png](README%20md%20d1d73ba3cf424c038553ace1eafa8e39/SMAT2022FAB.png)
+![SMAT2022FAB.png](README/SMAT2022FAB.png)
 
 ### Description
 
