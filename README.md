@@ -6,7 +6,7 @@
 
 **Authors: Kwanwoo Lee, Siyong Song, Daesoon Chang, Sangchul Park**
 
-The repository contains a simulation dataset, SMAT2022. [(Kopp et al, 2020)](https://ieeexplore.ieee.org/document/9115710) propose a new dataset SMT2020 containing characteristics of modern FAB, it is an additional version including AMHS (Automated Material Handling System). We tried to reflect the details of AMHS in modern FAB.
+The repository contains a simulation dataset, SMAT2022. [(Kopp et al, 2020)](https://ieeexplore.ieee.org/document/9115710) propose a new dataset, SMT2020, containing characteristics of modern FAB. SMAT2022 is an additional version of SMT2020 including AMHS (Automated Material Handling System). We tried to reflect the details of AMHS in modern FAB.
 
 ![SMAT2022FAB.png](README/SMAT2022FAB.png)
 
@@ -47,6 +47,7 @@ Kwanwoo Lee, +82-10-8790-2231, cool8790@ajou.ac.kr
 ---
 
 [1] Brain, M., R. Gould, U. Kaempf, and B. Wehrung. 1999. “Emerging Needs for Continuous Flow FOUP Transport”. In International Electronics Manufacturing Technology Symposium 1999 24th IEEE/CPMT, 76–82. Piscataway, New Jersey: Institute of Electrical and Electronics Engineers, Inc.
+
 [2] Campbell, E., and J. Ammenheuser. 2000. “300mm Factory Layout and Material Handling Modeling: Phase II Report”. Technical Report No. 99113848B-ENG, SEMATECH, Austin, Texas.
 
 [3] Castillo, I., and B. A. Peters. 2004. “Integrating Design and Production Planning Considerations in Multi-Bay Manufacturing Facility Layout”. European Journal of Operational Research 157(3):671–687.
