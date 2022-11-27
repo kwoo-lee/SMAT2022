@@ -1,6 +1,6 @@
 # README.md
 
-### SMAT2022 (Will be represented in WinterSim 2022)
+### SMAT2022 (Will be presented in WinterSim 2022)
 
 ---
 
